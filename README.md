@@ -5,8 +5,9 @@
 ## License
 > GNU General Public License v3.0
 
-##Screenshot
-![alt txt] (sc.png)
+## Screenshot
+
+[url=https://ibb.co/PQHtxV4][img]https://i.ibb.co/8cZXMQ2/sc.png[/img][/url]
 
 ## TODO:
 
