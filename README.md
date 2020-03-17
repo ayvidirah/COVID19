@@ -6,16 +6,14 @@
 > GNU General Public License v3.0
 
 ## Screenshot
-
 ![alt text] (https://i.ibb.co/8cZXMQ2/sc.png)
+
 
 ## TODO:
 
 ``` swift
-
-let apiKey = "YOUR API KEY"
+let apiKey = "YOUR API KEY" //In Model.swift file
 
 ```
 
 ### Thank you.
-
