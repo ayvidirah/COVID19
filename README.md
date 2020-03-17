@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-[url=https://ibb.co/PQHtxV4][img]https://i.ibb.co/8cZXMQ2/sc.png[/img][/url]
+![alt text] (https://i.ibb.co/8cZXMQ2/sc.png "Screenshot")
 
 ## TODO:
 
